@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Connect Companies with the right influencer for their campaign!Via good filters to find the right influencer for their budget and industry! Instagram, TikTok, Snapchat! 
 
 
 ## Background
