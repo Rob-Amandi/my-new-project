@@ -41,6 +41,8 @@ Handling Dynamic Content:
 Some websites load data dynamically using JavaScript. In such cases, tools like Selenium can automate interactions with the page to retrieve dynamic content.
 APIs (Application Programming Interfaces) provided by social media platforms can also be used to access data in a structured way.
 
+[Meta API]([https://developers.facebook.com/docs/instagram-api/#instagram-graph-api]
+
 Data Storage:
 We will store the scraped data in a structured format (e.g., CSV, JSON, or a database).
 
@@ -48,7 +50,7 @@ Data Cleaning and Validation:
 We will remove duplicates, handle missing values, and validate data integrity.
 Ensure that the data is accurate and up-to-date.
 
-[Meta API]([https://developer.twitter.com/en/docs](https://developers.facebook.com/docs/instagram-api/#instagram-graph-api)
+
 
 
 
