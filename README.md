@@ -20,42 +20,6 @@ The database needs to be created by scraping influencer data (followers, industr
 
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Influencer-Tipps_SOM_Header-2048x1367.jpg)
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Influencer.jpg)
-# Python code for creating the scene
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Create a canvas
-fig, ax = plt.subplots(figsize=(8, 6))
-
-# Draw influencers and customers
-influencers_x = np.random.uniform(0, 1, 5)
-influencers_y = np.random.uniform(0, 1, 5)
-customers_x = np.random.uniform(0, 1, 10)
-customers_y = np.random.uniform(0, 1, 10)
-
-ax.scatter(influencers_x, influencers_y, color='b', label='Influencers', s=100, marker='o')
-ax.scatter(customers_x, customers_y, color='g', label='Customers', s=50, marker='s')
-
-# Set background colors
-ax.set_facecolor('#f9f9f9')
-
-# Add title and labels
-plt.title("Influencers and Customers Meeting", fontsize=16)
-plt.xlabel("X-axis")
-plt.ylabel("Y-axis")
-
-# Hide axes
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
-ax.spines['bottom'].set_visible(False)
-ax.spines['left'].set_visible(False)
-ax.tick_params(axis='both', which='both', length=0)
-
-# Add legend
-plt.legend(loc='upper right')
-
-# Show the plot
-plt.show()
 
 ## Data sources and AI methods
 
