@@ -34,14 +34,14 @@ Profile Information: Extract basic details like username, follower count, bio, l
 Posts and Engagement Metrics: Collect data on the influencer’s posts, likes, comments, shares, and engagement rates.
 Audience Demographics: Gather information about the influencer’s audience (age, gender, location, interests).
 Content Categories: Identify the influencer’s niche (e.g., fashion, fitness, travel).
+Some websites load data dynamically using JavaScript. In such cases, tools like Selenium can automate interactions with the page to retrieve dynamic content.
 Collaborations and Partnerships: Look for sponsored posts, brand collaborations, and partnerships.
 Hashtags and Keywords: Extract relevant hashtags and keywords used by the influencer.
 
 Handling Dynamic Content:
-Some websites load data dynamically using JavaScript. In such cases, tools like Selenium can automate interactions with the page to retrieve dynamic content.
 APIs (Application Programming Interfaces) provided by social media platforms can also be used to access data in a structured way.
 
-[Meta API]([https://developers.facebook.com/docs/instagram-api/#instagram-graph-api
+[Meta API] https://developers.facebook.com/docs/instagram-api/#instagram-graph-api
 
 Data Storage:
 We will store the scraped data in a structured format (e.g., CSV, JSON, or a database).
