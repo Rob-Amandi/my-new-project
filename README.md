@@ -9,12 +9,10 @@ Connect Companies with the right influencer for their campaign!Via good filters 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Social Media marketing is the biggest in marketing nowadays. If you are a company or private person and wants to market your products how will you find the right Influencer that fits your target group and is within your budget?
+We want to collect data from the Influencer: Followers etc so that the company can filter to target the right influencer for their product!
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+
 
 
 ## How is it used?
