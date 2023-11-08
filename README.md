@@ -18,8 +18,8 @@ We want to collect data from the Influencer: Followers etc so that the company c
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 The database needs to be created by scraping influencer data (followers, industry, and more). Those who will use the platform are influencers themselves, as well as public profiles. Customers will become members to match with the right influencer based on their intended target audience. We operate as a broker between companies and influencers.
 
-![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
-![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/OIG.jpg)
+![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Influencer-Tipps_SOM_Header-2048x1367.jpg)
+![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Influencer.jpg)
 # Python code for creating the scene
 import matplotlib.pyplot as plt
 import numpy as np
