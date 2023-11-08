@@ -96,8 +96,5 @@ How could your project grow and become something even more? What kind of skills,
 
 
 ## Acknowledgments
+[Pictures](https://www.internetworld.de/social-media-marketing/influencer/influencer-marketing-im-dialog-meinungsfuehrern-1084806.html) / https://www.som-onlinemarketing.com/2020/09/22/influencer-marketing-7-essentielle-tipps-fuer-den-erfolg/)
 
-
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
