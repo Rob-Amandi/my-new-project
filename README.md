@@ -13,8 +13,6 @@ Social Media marketing is the biggest in marketing nowadays. If you are a compan
 We want to collect data from the Influencer: Followers etc so that the company can filter to target the right influencer for their product!
 
 
-
-
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
