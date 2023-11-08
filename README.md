@@ -21,7 +21,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
-![Cat]([https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG](https://github.com/Rob-Amandi/my-new-project/blob/main/OIG.jfif))
+![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/OIG.jpg)
 
 
 This is how you create code examples:
