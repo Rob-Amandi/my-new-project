@@ -52,12 +52,13 @@ Ensure that the data is accurate and up-to-date.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The data we retrieve must be public. If an influencer does not wish to be part of the network, it should be easy to leave.
+Negotiations regarding compensation and more are handled directly between the customer and the influencer within our application, as we receive a kickback on every transaction.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+We need a Data Engineer to help us set up the APIs. We will build the Frontend of the site but need help with the backend. 
+Currently, the application does not handle marketing campaigns, statistics, and more, but we plan to expand these features in the future.
 
 ## Acknowledgments
 [Pictures](https://www.internetworld.de/social-media-marketing/influencer/influencer-marketing-im-dialog-meinungsfuehrern-1084806.html) / https://www.som-onlinemarketing.com/2020/09/22/influencer-marketing-7-essentielle-tipps-fuer-den-erfolg/)
