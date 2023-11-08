@@ -16,35 +16,40 @@ We want to collect data from the Influencer: Followers etc so that the company c
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
+The database needs to be created by scraping influencer data (followers, industry, and more). Those who will use the platform are influencers themselves, as well as public profiles. Customers will become members to match with the right influencer based on their intended target audience. We operate as a broker between companies and influencers.
 
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/OIG.jpg)
 
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
-
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+
+Common sources include social media platforms (Instagram, Twitter, YouTube, etc.), blogs, websites, and public databases.
+
+We will use web scraping tools or libraries (such as Beautiful Soup, Scrapy, or custom scripts) to retrieve data from web pages. These tools simulate human browsing behavior and extract relevant information.
+
+We will create a list of URLs corresponding to influencer profiles.
+
+Data Extraction:
+Profile Information: Extract basic details like username, follower count, bio, location, and profile picture.
+Posts and Engagement Metrics: Collect data on the influencer’s posts, likes, comments, shares, and engagement rates.
+Audience Demographics: Gather information about the influencer’s audience (age, gender, location, interests).
+Content Categories: Identify the influencer’s niche (e.g., fashion, fitness, travel).
+Collaborations and Partnerships: Look for sponsored posts, brand collaborations, and partnerships.
+Hashtags and Keywords: Extract relevant hashtags and keywords used by the influencer.
+
+Handling Dynamic Content:
+Some websites load data dynamically using JavaScript. In such cases, tools like Selenium can automate interactions with the page to retrieve dynamic content.
+APIs (Application Programming Interfaces) provided by social media platforms can also be used to access data in a structured way.
+
+Data Storage:
+We will store the scraped data in a structured format (e.g., CSV, JSON, or a database).
+
+Data Cleaning and Validation:
+We will remove duplicates, handle missing values, and validate data integrity.
+Ensure that the data is accurate and up-to-date.
+
 If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+[Meta API]([https://developer.twitter.com/en/docs](https://developers.facebook.com/docs/instagram-api/#instagram-graph-api))
 
 | Syntax      | Description |
 | ----------- | ----------- |
