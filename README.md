@@ -48,13 +48,9 @@ Data Cleaning and Validation:
 We will remove duplicates, handle missing values, and validate data integrity.
 Ensure that the data is accurate and up-to-date.
 
-If you need to use links, here's an example:
 [Meta API]([https://developer.twitter.com/en/docs](https://developers.facebook.com/docs/instagram-api/#instagram-graph-api))
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 
 ## Challenges
 
