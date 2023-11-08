@@ -20,6 +20,42 @@ The database needs to be created by scraping influencer data (followers, industr
 
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/OIG.jpg)
+# Python code for creating the scene
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create a canvas
+fig, ax = plt.subplots(figsize=(8, 6))
+
+# Draw influencers and customers
+influencers_x = np.random.uniform(0, 1, 5)
+influencers_y = np.random.uniform(0, 1, 5)
+customers_x = np.random.uniform(0, 1, 10)
+customers_y = np.random.uniform(0, 1, 10)
+
+ax.scatter(influencers_x, influencers_y, color='b', label='Influencers', s=100, marker='o')
+ax.scatter(customers_x, customers_y, color='g', label='Customers', s=50, marker='s')
+
+# Set background colors
+ax.set_facecolor('#f9f9f9')
+
+# Add title and labels
+plt.title("Influencers and Customers Meeting", fontsize=16)
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+
+# Hide axes
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.spines['bottom'].set_visible(False)
+ax.spines['left'].set_visible(False)
+ax.tick_params(axis='both', which='both', length=0)
+
+# Add legend
+plt.legend(loc='upper right')
+
+# Show the plot
+plt.show()
 
 ## Data sources and AI methods
 
@@ -50,10 +86,6 @@ Data Cleaning and Validation:
 We will remove duplicates, handle missing values, and validate data integrity.
 Ensure that the data is accurate and up-to-date.
 
-
-
-
-
 ## Challenges
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
@@ -65,8 +97,7 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
+
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
