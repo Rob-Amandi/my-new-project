@@ -19,12 +19,10 @@ We want to collect data from the Influencer: Followers etc so that the company c
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
+![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
 ![Cat](https://github.com/Rob-Amandi/my-new-project/blob/main/Capture.PNG)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
